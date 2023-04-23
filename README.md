@@ -1,5 +1,6 @@
 # snake-game
-snake game with html css and js 
+snake game with html css and js ,
+
 this game is only available in desktop for now :) 
 
 take a look at this game in : https://mohammad-jalilinia.github.io/snake-game/
